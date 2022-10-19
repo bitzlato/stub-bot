@@ -1,0 +1,14 @@
+{
+  "name": "stub-bot",
+  "version": "1.0.0",
+  "repository": "git@github.com:bitzlato/stub-bot.git",
+  "author": "Aleksandr Diskant <velsamm@yandex.ru>",
+  "license": "MIT",
+  "dependencies": {
+    "mustache": "^4.2.0",
+    "telegraf": "^4.10.0"
+  },
+  "scripts": {
+    "start": "node src/bot/index.js"
+  }
+}
